@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="197706" started-at="2022-11-17T02:11:58Z" finished-at="2022-11-17T02:15:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="197706" started-at="2022-11-17T02:11:58Z" finished-at="2022-11-17T02:15:16Z">
+      <class name="ARC4Planit.PlanitTA.tests.ShopAndCartPageTest">
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ShopAndCartPageTest@635eaaf1]" name="openHomePage" is-config="true" duration-ms="4160" started-at="2022-11-17T02:14:54Z" finished-at="2022-11-17T02:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:ARC4Planit.PlanitTA.tests.ShopAndCartPageTest@635eaaf1]" name="testCase3" duration-ms="1588" started-at="2022-11-17T02:14:58Z" finished-at="2022-11-17T02:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ShopAndCartPageTest@635eaaf1]" name="closeBrowser" is-config="true" duration-ms="16192" started-at="2022-11-17T02:15:00Z" finished-at="2022-11-17T02:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ARC4Planit.PlanitTA.tests.ShopAndCartPageTest -->
+      <class name="ARC4Planit.PlanitTA.tests.ContactPageTest">
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="7035" started-at="2022-11-17T02:11:58Z" finished-at="2022-11-17T02:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase1" duration-ms="990" started-at="2022-11-17T02:12:05Z" finished-at="2022-11-17T02:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="119" started-at="2022-11-17T02:12:06Z" finished-at="2022-11-17T02:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3821" started-at="2022-11-17T02:12:06Z" finished-at="2022-11-17T02:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2" duration-ms="19207" started-at="2022-11-17T02:12:10Z" finished-at="2022-11-17T02:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="73" started-at="2022-11-17T02:12:29Z" finished-at="2022-11-17T02:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3657" started-at="2022-11-17T02:12:29Z" finished-at="2022-11-17T02:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2" duration-ms="5666" started-at="2022-11-17T02:12:33Z" finished-at="2022-11-17T02:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="186" started-at="2022-11-17T02:12:39Z" finished-at="2022-11-17T02:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3732" started-at="2022-11-17T02:12:39Z" finished-at="2022-11-17T02:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2" duration-ms="5653" started-at="2022-11-17T02:12:43Z" finished-at="2022-11-17T02:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="160" started-at="2022-11-17T02:12:48Z" finished-at="2022-11-17T02:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3969" started-at="2022-11-17T02:12:49Z" finished-at="2022-11-17T02:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2" duration-ms="12355" started-at="2022-11-17T02:12:53Z" finished-at="2022-11-17T02:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="144" started-at="2022-11-17T02:13:05Z" finished-at="2022-11-17T02:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="4228" started-at="2022-11-17T02:13:05Z" finished-at="2022-11-17T02:13:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2" duration-ms="5525" started-at="2022-11-17T02:13:09Z" finished-at="2022-11-17T02:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="148" started-at="2022-11-17T02:13:15Z" finished-at="2022-11-17T02:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="4530" started-at="2022-11-17T02:13:15Z" finished-at="2022-11-17T02:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2b(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2b" duration-ms="3269" started-at="2022-11-17T02:13:19Z" data-provider="getData" finished-at="2022-11-17T02:13:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[john.example@planit.net.au]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John's Message]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2b -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="16257" started-at="2022-11-17T02:13:23Z" finished-at="2022-11-17T02:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="4110" started-at="2022-11-17T02:13:39Z" finished-at="2022-11-17T02:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2b(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2b" duration-ms="2196" started-at="2022-11-17T02:13:43Z" data-provider="getData" finished-at="2022-11-17T02:13:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jane]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jane.example@planit.net.au]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jane's Message]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2b -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="16235" started-at="2022-11-17T02:13:45Z" finished-at="2022-11-17T02:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="4080" started-at="2022-11-17T02:14:02Z" finished-at="2022-11-17T02:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2b(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2b" duration-ms="1805" started-at="2022-11-17T02:14:06Z" data-provider="getData" finished-at="2022-11-17T02:14:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jack.example@planit.net.au]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jack's Message]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2b -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="62" started-at="2022-11-17T02:14:07Z" finished-at="2022-11-17T02:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3820" started-at="2022-11-17T02:14:07Z" finished-at="2022-11-17T02:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2b(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2b" duration-ms="4824" started-at="2022-11-17T02:14:11Z" data-provider="getData" finished-at="2022-11-17T02:14:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jill]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jill.example@planit.net.au]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jill's Message]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2b -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="16287" started-at="2022-11-17T02:14:16Z" finished-at="2022-11-17T02:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="openHomePage" is-config="true" duration-ms="3751" started-at="2022-11-17T02:14:32Z" finished-at="2022-11-17T02:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="testCase2b(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="testCase2b" duration-ms="17679" started-at="2022-11-17T02:14:36Z" data-provider="getData" finished-at="2022-11-17T02:14:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jerry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jerry.example@planit.net.au]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jerry's Message]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2b -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ARC4Planit.PlanitTA.tests.ContactPageTest@31d7b7bf]" name="closeBrowser" is-config="true" duration-ms="156" started-at="2022-11-17T02:14:54Z" finished-at="2022-11-17T02:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ARC4Planit.PlanitTA.tests.ContactPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
